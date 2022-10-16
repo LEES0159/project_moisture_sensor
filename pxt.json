@@ -1,5 +1,5 @@
 {
-    "name": "Project_Moisture_Sensor",
+    "name": "Project_Moisture_Sensor_radio",
     "description": "",
     "dependencies": {
         "core": "*",
